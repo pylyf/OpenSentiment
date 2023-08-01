@@ -1,0 +1,5 @@
+tabulate
+pyfiglet
+yfinance
+configparser
+openai

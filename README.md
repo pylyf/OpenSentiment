@@ -37,7 +37,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![example screenshot]([https://github.com/pylyf/OpenSentiment/blob/master/screenshots/example.png](https://github.com/pylyf/OpenSentiment/blob/main/screenshots/screenshot.PNG))
+![example screenshot](https://github.com/pylyf/OpenSentiment/blob/main/screenshots/screenshot.PNG)
 
 A simple script that scrapes Yahoo Finance articles for a specific stock and then passes them into the OpenAI API to rate their sentiment
 <!-- GETTING STARTED -->

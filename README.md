@@ -59,6 +59,7 @@ Install all required libraries in order to execute the script.
 pip install -r requirements.txt
 ```
 
+Make sure to edit the ```config.ini``` file and replace ```(insert your key here)``` with your secret API key from [https://openai.com/blog/openai-api](https://openai.com/blog/openai-api).
 <!-- USAGE EXAMPLES -->
 ## Usage
 ```
